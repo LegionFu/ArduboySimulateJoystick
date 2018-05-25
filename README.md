@@ -1,6 +1,7 @@
 # ArduboySimulateJoystick
 
 Arduboy的C++代码，亲测Android和windows上能用。
+需要安装依赖库ArduinoJoystickLibrary，地址 https://github.com/MHeironimus/ArduinoJoystickLibrary
 
 共7个按键，上下左右 + 按钮1（A键）、按钮2（B键）和按钮4（A键和B键同时按下）
 
